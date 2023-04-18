@@ -33,7 +33,7 @@ public class WealthMgr : MonoBehaviour
                 return Instantiate(wealths[i]);
             }
         }
-        print("WealthMgr");
+
         return null;
     }
 
